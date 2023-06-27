@@ -1,0 +1,10 @@
+{
+  "name": "react-ts-editor",
+  "version": "1.0.0",
+  "description": "Playpen project for creating text editor from scratch using React & Typescript",
+  "main": "src/index.tsx",
+  "repository": "https://github.com/chaitanya608/react-ts-editor.git",
+  "author": "chaitanya608 <chaitanya608@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
